@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d901e968-fdcb-4da8-9ec0-0fb0b8c1a852" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-client/src/components/Home/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/front-client/src/components/Home/About.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-client/src/components/Menu/MenuDetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/front-client/src/components/Menu/MenuDetail.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1qSisMZoNPjmXkiURez39OUguwa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\HUST Students\do_an_thiet_ke_cnpm_20202\front-client\src" />
+      <recent name="E:\HUST Students\do_an_thiet_ke_cnpm_20202\front-client\src\assets\images" />
+      <recent name="E:\HUST Students\do_an_thiet_ke_cnpm_20202\front-client\public" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/backend" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/backend/routes" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d901e968-fdcb-4da8-9ec0-0fb0b8c1a852" name="Default Changelist" comment="" />
+      <created>1617079598207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617079598207</updated>
+      <workItem from="1617079599560" duration="1901000" />
+      <workItem from="1617121770272" duration="4743000" />
+      <workItem from="1617127257091" duration="351000" />
+      <workItem from="1617127627856" duration="35000" />
+      <workItem from="1617127679425" duration="5729000" />
+      <workItem from="1617162391770" duration="4093000" />
+      <workItem from="1617168139960" duration="55000" />
+      <workItem from="1617206097322" duration="5820000" />
+      <workItem from="1618973647922" duration="1465000" />
+      <workItem from="1619110611292" duration="2289000" />
+      <workItem from="1619328030960" duration="4277000" />
+      <workItem from="1619471768594" duration="135000" />
+      <workItem from="1621061864556" duration="2809000" />
+      <workItem from="1621081332003" duration="22589000" />
+      <workItem from="1623262751068" duration="137000" />
+      <workItem from="1623263441069" duration="1036000" />
+      <workItem from="1623286137376" duration="887000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
